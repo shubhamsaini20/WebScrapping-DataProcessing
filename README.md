@@ -9,3 +9,6 @@ we have scrapped the data from multiple job-hunting websites i.e. Linkedin, and 
 
 The repo also includes a PDF version of ppt we have prepared to highlight the insightful findings. 
 
+
+**For more information on the project please refer to the playlist below this**
+https://www.youtube.com/watch?v=IRj07dOj2eQ&list=PLEhU7lS2f_JFFdLN0LGMrhdpYhcoGIE2a
