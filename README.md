@@ -1,4 +1,4 @@
-**                                         WEB SCRAPING PROJECT - Mining job hunting websites                                    **
+# **WEB SCRAPING PROJECT - Mining job hunting websites**
 
 
 
