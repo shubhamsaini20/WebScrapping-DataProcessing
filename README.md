@@ -1,5 +1,4 @@
->                                         "WEB SCRAPING PROJECT - Mining job hunting websites"
-                                    
+#**                                         "WEB SCRAPING PROJECT - Mining job hunting websites                                    **
 
 
 4 team members build this Web_Scrapping project for the final submission at ESILV. 
